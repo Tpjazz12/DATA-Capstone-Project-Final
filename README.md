@@ -37,7 +37,6 @@ Classification accuracy and error rates were the primary metrics for comparison.
 Initial findings indicate that optimal transport-based methods may offer better embeddings, enhancing classification accuracies. These results suggest promising directions for future research, particularly in integrating these methods with neural networks and expanding to larger datasets.
 
 ## Repository Structure
-.
 ├── MDS_ISO_map_embeddings.ipynb       # Notebooks for Multidimensional Scaling and Isomap techniques
 ├── Wassmap.ipynb                      # Implementation of the Wasserstein map algorithm
 └── tSNE_LocallyLinearEmbedding_SpectralEmbedding.ipynb   # Techniques for t-SNE, Locally Linear Embedding, and Spectral Embedding
