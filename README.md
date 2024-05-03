@@ -19,7 +19,7 @@ All datasets were preprocessed for consistent resolution, pixel normalization, a
 
 ### Manifold Learning Techniques
 We compared several manifold learning techniques:
-- Traditional: PCA, MDS, tSNE, Locally Linear Embedding, and Spectral Embedding.
+- Traditional: MDS, Iso-map, tSNE, Locally Linear Embedding, and Spectral Embedding.
 - Optimal Transport-based: Wassmap.
 
 ### Models and Training
